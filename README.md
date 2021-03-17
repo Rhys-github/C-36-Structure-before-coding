@@ -1,1 +1,2 @@
-# C-36-Structure-before-coding
+# synchronousBallMovement
+Ball moving synchronously
